@@ -1,0 +1,72 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.cabeçalho {
+    background-color: #5c66ff;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cabeçalho-imagem {
+    width: 10%;
+}
+
+.cabeçalho-lista-item {
+    font-size: 25px;
+}
+
+.ronaldo-imagem {
+    width: 40%;
+}
+
+.biografia {
+    background-image: linear-gradient(#5c66ff, #2af8ff);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8% 0;
+}
+
+.cristiano-div-conteudo {
+    width: 35%;
+}
+
+.biografia-de-ronaldo-titulo {
+    padding: 10% 0;
+}
+
+.cristiano-sporting {
+    width: 20%;
+}
+
+.cristiano-manchester {
+    width: 20%;
+}
+
+.cristiano-real-madrid {
+    width: 20%;
+}
+
+.titulos-cristiano {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.imagems-cristiano-todas {
+    display: flex;
+    justify-content: space-around;
+}
+
+.rodape {
+    background-color: #00c0fa;
+    text-align: center;
+}
+
+.rodape-imagem {
+    height: 60px;
+    padding: 12px;
+}
